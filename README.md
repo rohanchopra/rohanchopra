@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a data scientist who loves to code. 
+<!-- Connect section -->
+
+📫 How to reach me: <a href="https://linkedin.com/in/rohanchopra09"><img src="https://img.shields.io/badge/-Rohan%20Chopra%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/rohanchopra09" alt="LinkedIn Badge"></a> 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanchopra&show_icons=true&locale=en&layout=compact" alt="rohanchopra" /></p>
+
 <!--
 **rohanchopra/rohanchopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
